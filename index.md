@@ -2,7 +2,7 @@
 layout: default
 ---
 
-HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infrastructures to genomics data services in the biotech industry.  From private sequencing companies to non-profit genome centers, petabytes of DNA data are being generated each month in fields ranging from human medicine to agricultural genomics.  At HyperSeq, we provide customers with a single software-driven appliance that combines compute, storage, and networking facilities tailored to the intricacies of their genomics data.  As such, we offer optimized DNA storage capacity, reduced cost-per-petabyte for analytical genomic computations, and tight security for mission-critical sequencing data.
+HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infrastructures to genomic data services in the biotech industry.  From private sequencing companies to non-profit genome centers, petabytes of DNA data are being generated each month in fields ranging from human medicine to agricultural genomics.  At HyperSeq, we provide customers with a single software-driven appliance that combines compute, storage, and networking facilities tailored to the intricacies of their genomics data.  As such, we offer optimized DNA storage capacity, reduced cost-per-petabyte for analytical genomic computations, and tight security for mission-critical sequencing data.
 
 # [](#header-1)Note to Investors
 
@@ -12,7 +12,7 @@ HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infr
 
 ## [](#header-2)Value Proposition
 
-HyperSeq is poised to capitalize on the hyperconvergence market, being the first company to offer specialized hyperconverged infrastructures tailored to genome data services within DNA sequencing enterprises in the biotech industry. 
+HyperSeq is poised to capitalize on the hyperconvergence market, being the first biotech company to offer specialized hyperconverged infrastructures tailored to genomic data services of DNA sequencing enterprises. 
 
 # [](#header-1)HyperSeq Pillars
 
@@ -34,8 +34,8 @@ HyperSeq offers end-to-end genomic data backup and automated disaster recovery t
 
 # [](#header-1)Recent News
 
-HyperSeq is applying for seed funding at [Y Combinator](http://www.ycombinator.com/).
+HyperSeq is currently applying for seed funding at [Y Combinator](http://www.ycombinator.com/).
 
 # [](#header-1)Meet the Founder
 
-HyperSeq was founded by [Bohdan Khomtchouk, Ph.D.](http://bohdankhomtchouk.com/) as a hobby project in between completion of graduate school (University of Miami) and beginning of post-graduate school (Stanford University).   
+HyperSeq was founded by [Bohdan Khomtchouk, Ph.D.](http://bohdankhomtchouk.com/) in between completion of graduate school (University of Miami) and beginning of post-graduate school (Stanford University).   
