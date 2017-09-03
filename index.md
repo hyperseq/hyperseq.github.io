@@ -2,122 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+HyperSeq is bringing enterprise-grade hyperconverged infrastructures to genomics data services in the biotech industry.  From private sequencing companies to non-profit genome centers, petabytes of DNA data are being generated each month in fields ranging from human medicine to agricultural genomics.  At HyperSeq, we provide customers with a single software-driven appliance that combines compute, storage, and networking facilities tailored to the intricacies of their genomics data.  As such, we offer optimized DNA storage capacity, reduced cost-per-petabyte for analytical genomic computations, and tight security for mission-critical sequencing data.
 
-[Link to another page](another-page).
+# [](#header-1)Note to Investors
 
-There should be whitespace between paragraphs.
+## [](#header-2)Market Potential
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Gartner Inc.](http://www.gartner.com/newsroom/id/3308017) predicts that the market for hyperconverged integrated systems will reach nearly $5 billion -- or 24% of the overall market for integrated systems -- by 2019.
 
-# [](#header-1)Header 1
+## [](#header-2)Value Proposition
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+HyperSeq is poised to capitalize on the hyperconvergence market, being the first company to offer specialized hyperconverged infrastructures tailored to genome data services within DNA sequencing enterprises in the biotech industry. 
 
-## [](#header-2)Header 2
+# [](#header-1)HyperSeq Pillars
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## [](#header-2)Data Costs
 
-### [](#header-3)Header 3
+Relative to public cloud platforms, hyperconvergence infrastructures offer 27-55% lower costs, providing minimum allocation of run-rate resources, thereby saving you money (source: "Is a Hyperconverged Infrastructure Cost-Competitive with the Cloud?," Evaluator Group, June 2017).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## [](#header-2)Data Security
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+In contrast to public cloud infrastructures, HyperSeq offers on-premises IT infrastructure and the deployment of internal "private cloud" infrastructures.  In other words, only you control and have access to your data at all times. 
 
-#### [](#header-4)Header 4
+## [](#header-2)Data Scalability
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Analyzing a single human genome takes about 300 GB of data-handling capacity.  HyperSeq gives you the ability to start small and increase the scalability of your platform by adding extra nodes as needed by your enterprise.  You can build as you grow. 
 
-##### [](#header-5)Header 5
+## [](#header-2)Data Integrity
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+HyperSeq offers end-to-end genomic data backup and automated disaster recovery tools.  In other words, you will never lose your data.
