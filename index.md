@@ -2,7 +2,7 @@
 layout: default
 ---
 
-HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infrastructures to genomic data services in the biotech industry.  From private sequencing companies to non-profit genome centers, petabytes of DNA data are being generated each month in fields ranging from human medicine to agricultural genomics.  At HyperSeq, we provide customers with a single software-driven appliance that combines compute, storage, and networking facilities tailored to the intricacies of their genomics data.  As such, we offer optimized DNA storage capacity, reduced cost-per-petabyte for analytical genomic computations, and tight security for mission-critical sequencing data.
+HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infrastructure solutions to genomic data services in the biotech industry.  From private sequencing companies to non-profit genome centers, petabytes of DNA data are being generated each month in fields ranging from human medicine to agricultural genomics.  At HyperSeq, we provide customers with a single software-driven appliance that combines compute, storage, and networking facilities tailored to the intricacies of their genomics data.  As such, we offer optimized DNA storage capacity, reduced cost-per-petabyte for analytical genomic computations, and tight security for mission-critical sequencing data.
 
 # [](#header-1)Note to Investors
 
@@ -12,7 +12,7 @@ HyperSeq is an early-stage startup bringing enterprise-grade hyperconverged infr
 
 ## [](#header-2)Value Proposition
 
-HyperSeq is poised to capitalize on the hyperconvergence market, being the first biotech company to offer specialized hyperconverged infrastructures tailored to genomic data services of DNA sequencing enterprises. 
+HyperSeq is poised to capitalize on the hyperconvergence market, being the first biotech company to offer specialized hyperconverged infrastructure solutions tailored to genomic data services of DNA sequencing enterprises. 
 
 # [](#header-1)HyperSeq Pillars
 
