@@ -38,4 +38,4 @@ HyperSeq is currently applying for seed funding at [Y Combinator](http://www.yco
 
 # [](#header-1)Meet the Founder
 
-HyperSeq was founded by [Bohdan Khomtchouk, Ph.D.](http://bohdankhomtchouk.com/) in between completion of graduate school (University of Miami) and beginning of post-graduate school (Stanford University).   
+HyperSeq was founded by [Bohdan Khomtchouk, Ph.D.](http://bohdankhomtchouk.com/).    
